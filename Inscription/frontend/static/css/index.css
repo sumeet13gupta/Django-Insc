@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0 ;
+    padding: 0;
+    color:aliceblue;
+}
+
+#main {
+    position: fixed;   /* to fix the position of element, we don't have any scroll bars in this page*/
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+}
